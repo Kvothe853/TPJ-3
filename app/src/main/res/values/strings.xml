@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loto number generator</string>
+    <string name="numberOne">?</string>
+    <string name="numberTwo">?</string>
+    <string name="inputTextas">Number from 1 to: </string>
+    <string name="buttonText">Generate</string>
+    <string name="author">Airidas Smirnovas</string>
+</resources>
